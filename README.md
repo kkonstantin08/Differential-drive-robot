@@ -1,4 +1,4 @@
-Данный проект представляет собой моделирование и управление роботом-пылесосом, использующим дифференциальный привод. Робот способен автономно перемещаться по помещению, избегая препятствий и выполняя уборку по алгоритму "змейка". Проект включает в себя разработку программы, которая визуализирует движение робота в реальном времени и отображает его траекторию.
+Данный проект представляет собой моделирование и управление роботом-пылесосом, использующим дифференциальный привод. Робот способен автономно перемещаться по помещению,выполняя уборку по алгоритму "змейка". Проект включает в себя разработку программы, которая визуализирует движение робота в реальном времени и отображает его траекторию.
 
 ## Цели проекта
 
@@ -34,7 +34,7 @@
 
 ---
 
-This project represents the modeling and control of a robot vacuum cleaner using differential drive. The robot is capable of autonomously navigating a room, avoiding obstacles, and performing cleaning tasks using the "snake" algorithm. The project includes the development of a program that visualizes the robot's movement in real-time and displays its trajectory.
+This project represents the modeling and control of a robot vacuum cleaner using differential drive. The robot is capable of autonomously navigating a room, performing cleaning tasks using the "snake" algorithm. The project includes the development of a program that visualizes the robot's movement in real-time and displays its trajectory.
 
 ## Project Goals
 
